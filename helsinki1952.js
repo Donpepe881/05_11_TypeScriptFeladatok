@@ -141,6 +141,7 @@ function OlimpiaiPontokSzama(adatok) {
 }
 var olimpiaiPontok = OlimpiaiPontokSzama(helsinkiAdatok);
 document.write("<br> 5. feladat: <br> Olimpiai pontok száma: " + olimpiaiPontok);
+// 6. feladat
 document.write("<br> 6. feladat <br>");
 function tornaSportAg(adatok) {
     var uszasErmekSzama = 0;

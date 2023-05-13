@@ -162,6 +162,8 @@ function OlimpiaiPontokSzama(adatok: helsinki[]): any {
 let olimpiaiPontok: number = OlimpiaiPontokSzama(helsinkiAdatok);
 document.write("<br> 5. feladat: <br> Olimpiai pontok száma: " + olimpiaiPontok);
 
+// 6. feladat
+
 document.write("<br> 6. feladat <br>");
 function tornaSportAg(adatok: helsinki[]): any {
     let uszasErmekSzama: number = 0;
